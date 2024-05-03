@@ -2,7 +2,7 @@
 
 ## Overview
 ______
-This project is a .NET C# application that implements a simple calculator capable of addition, subtraction, multiplication, and division operations. It only calculates multiple positive values.
+This project is a [.NET](https://dotnet.microsoft.com/en-us/) [C#](https://en.wikipedia.org/wiki/C_Sharp_%28programming_language%29) application that implements a simple calculator capable of addition, subtraction, multiplication, and division operations. It only calculates multiple positive values.
 
 ## Features
 ____

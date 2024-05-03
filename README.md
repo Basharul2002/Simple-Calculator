@@ -6,18 +6,18 @@ This project is a .NET C# application that implements a simple calculator capabl
 
 ## Features
 ____
-### Addition
+### 🌟 Addition
 - **Description:** Performs addition operation on multiple positive values.
-- **Usage:** Enter the values to be added separated by commas.
 
-### Subtraction
+### 🌟 Subtraction
 - **Description:** Performs subtraction operation on multiple positive values.
 
-### Multiplication
+### 🌟 Multiplication
 - **Description:** Performs multiplication operation on multiple positive values.
 
-### Division
+### 🌟 Division
 - **Description:** Performs division operation on multiple positive values.
+
 
 
 ## Installation

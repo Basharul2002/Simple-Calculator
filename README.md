@@ -40,5 +40,4 @@ ____
 
 ## Credits
 ____
-- [Your Name](https://github.com/basharul2002)
-
+- [Basharul Alam](https://github.com/basharul2002)

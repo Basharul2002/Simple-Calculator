@@ -1,5 +1,7 @@
 # Simple Calculator
 
+## Description
+
 This project is a user-friendly [.NET](https://dotnet.microsoft.com/en-us/) [C#](https://en.wikipedia.org/wiki/C_Sharp_%28programming_language%29) application that implements a basic calculator. It empowers you to perform essential arithmetic operations, including addition, subtraction, multiplication, and division, on multiple positive numbers.
 
 ## Features
@@ -25,7 +27,9 @@ Sample Output:
 ![Calculator WIth Output](assets/CalculatorWIthOutput.png)
 #### Explanation:
 The output image demonstrates a specific calculation result, providing a visual representation of the application's functionality.
-Important Notes ⚠️
+
+
+## Important Notes ⚠️
 The current implementation handles only positive numbers. For future enhancements, consider incorporating error handling for invalid inputs or calculations (e.g., division by zero).
 The user interface and output images serve as placeholders. Replace them with actual screenshots or representations specific to your implementation.
 License

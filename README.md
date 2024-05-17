@@ -21,7 +21,7 @@ Explanation:
 
 The design image showcases the calculator's user interface, typically consisting of input fields, buttons for numbers and operations, and an output display.
 Sample Output:
-![Calculator WIth Output](assts/CalculatorWIthOutput.png)
+![Calculator WIth Output](assets/CalculatorWIthOutput.png)
 Explanation:
 
 The output image demonstrates a specific calculation result, providing a visual representation of the application's functionality.

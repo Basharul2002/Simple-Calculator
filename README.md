@@ -15,12 +15,14 @@ If you prefer pre-built binaries for simplified installation, consider using a s
 
 
 Here's an example of the application's design:
+
 ![Calculator](assets/Calculator.png)
 
 Explanation:
 
 The design image showcases the calculator's user interface, typically consisting of input fields, buttons for numbers and operations, and an output display.
 Sample Output:
+
 ![Calculator WIth Output](assets/CalculatorWIthOutput.png)
 Explanation:
 
